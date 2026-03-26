@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#2D9CDB"
+        android:pathData="M60,60m-55,0a55,55 0,1 1,110 0a55,55 0,1 1,-110 0" />
+
+    <!-- Monitor/kiosk icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,35 L90,35 Q95,35 95,40 L95,75 Q95,80 90,80 L68,80 L68,88 L78,88 Q80,88 80,90 Q80,92 78,92 L42,92 Q40,92 40,90 Q40,88 42,88 L52,88 L52,80 L30,80 Q25,80 25,75 L25,40 Q25,35 30,35 Z" />
+
+    <!-- Screen area -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M30,40 L90,40 L90,73 L30,73 Z" />
+
+    <!-- App icon on screen -->
+    <path
+        android:fillColor="#2D9CDB"
+        android:pathData="M50,50 L70,50 Q73,50 73,53 L73,68 Q73,71 70,71 L50,71 Q47,71 47,68 L47,53 Q47,50 50,50 Z" />
+
+    <!-- Play arrow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,56 L56,66 L66,61 Z" />
+
+</vector>

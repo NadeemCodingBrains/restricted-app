@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.KioskApp" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:statusBarColor">@color/kioskBackground</item>
+        <item name="android:navigationBarColor">@color/kioskBackground</item>
+        <item name="android:windowBackground">@color/kioskBackground</item>
+    </style>
+
+    <style name="KioskDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/kioskAccent</item>
+    </style>
+
+</resources>

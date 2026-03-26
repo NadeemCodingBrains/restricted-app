@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kioskBackground">#0D1117</color>
+    <color name="kioskAccent">#2D9CDB</color>
+    <color name="kioskTextPrimary">#FFFFFF</color>
+    <color name="kioskTextSecondary">#8B949E</color>
+    <color name="kioskButtonText">#FFFFFF</color>
+    <color name="kioskSurface">#161B22</color>
+</resources>

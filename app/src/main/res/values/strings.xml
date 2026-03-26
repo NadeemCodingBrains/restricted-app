@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KioskApp</string>
+    <string name="kiosk_title">Welcome</string>
+    <string name="kiosk_subtitle">Tap the button below to get started</string>
+    <string name="launch_button_label">Launch App</string>
+    <string name="footer_hint">Managed Kiosk Device</string>
+</resources>
